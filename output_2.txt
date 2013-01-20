@@ -1,0 +1,16 @@
+Path 1
+
+[True, True]
+Check hole: 1
+[True, False]
+Check hole: 1
+[False, False]
+
+Path 2
+
+[True, True]
+Check hole: 2
+[False, True]
+Check hole: 2
+[False, False]
+

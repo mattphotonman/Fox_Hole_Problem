@@ -1,0 +1,96 @@
+Path 1
+
+[True, True, True, True, True, True, True]
+Check hole: 2
+[False, True, True, True, True, True, True]
+Check hole: 3
+[True, False, True, True, True, True, True]
+Check hole: 4
+[False, True, False, True, True, True, True]
+Check hole: 5
+[True, False, True, False, True, True, True]
+Check hole: 6
+[False, True, False, True, False, True, False]
+Check hole: 2
+[False, False, True, False, True, False, True]
+Check hole: 3
+[False, False, False, True, False, True, False]
+Check hole: 4
+[False, False, False, False, True, False, True]
+Check hole: 5
+[False, False, False, False, False, True, False]
+Check hole: 6
+[False, False, False, False, False, False, False]
+
+Path 2
+
+[True, True, True, True, True, True, True]
+Check hole: 6
+[True, True, True, True, True, True, False]
+Check hole: 5
+[True, True, True, True, True, False, True]
+Check hole: 4
+[True, True, True, True, False, True, False]
+Check hole: 3
+[True, True, True, False, True, False, True]
+Check hole: 2
+[False, True, False, True, False, True, False]
+Check hole: 2
+[False, False, True, False, True, False, True]
+Check hole: 3
+[False, False, False, True, False, True, False]
+Check hole: 4
+[False, False, False, False, True, False, True]
+Check hole: 5
+[False, False, False, False, False, True, False]
+Check hole: 6
+[False, False, False, False, False, False, False]
+
+Path 3
+
+[True, True, True, True, True, True, True]
+Check hole: 2
+[False, True, True, True, True, True, True]
+Check hole: 3
+[True, False, True, True, True, True, True]
+Check hole: 4
+[False, True, False, True, True, True, True]
+Check hole: 5
+[True, False, True, False, True, True, True]
+Check hole: 6
+[False, True, False, True, False, True, False]
+Check hole: 6
+[True, False, True, False, True, False, False]
+Check hole: 5
+[False, True, False, True, False, False, False]
+Check hole: 4
+[True, False, True, False, False, False, False]
+Check hole: 3
+[False, True, False, False, False, False, False]
+Check hole: 2
+[False, False, False, False, False, False, False]
+
+Path 4
+
+[True, True, True, True, True, True, True]
+Check hole: 6
+[True, True, True, True, True, True, False]
+Check hole: 5
+[True, True, True, True, True, False, True]
+Check hole: 4
+[True, True, True, True, False, True, False]
+Check hole: 3
+[True, True, True, False, True, False, True]
+Check hole: 2
+[False, True, False, True, False, True, False]
+Check hole: 6
+[True, False, True, False, True, False, False]
+Check hole: 5
+[False, True, False, True, False, False, False]
+Check hole: 4
+[True, False, True, False, False, False, False]
+Check hole: 3
+[False, True, False, False, False, False, False]
+Check hole: 2
+[False, False, False, False, False, False, False]
+
